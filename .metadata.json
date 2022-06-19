@@ -1,0 +1,10 @@
+[
+  {
+    "package": "simlandr",
+    "oncran": true
+  },
+  {
+    "package": "SparseVFC",
+    "oncran": true
+  }
+]
