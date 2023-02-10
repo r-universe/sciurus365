@@ -1,5 +1,13 @@
 [
   {
+    "package": "fitlandr",
+    "oncran": true
+  },
+  {
+    "package": "Isinglandr",
+    "oncran": true
+  },
+  {
     "package": "simlandr",
     "oncran": true
   },

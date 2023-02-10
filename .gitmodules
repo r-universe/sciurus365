@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fitlandr"]
+	path = fitlandr
+	url = https://github.com/sciurus365/fitlandr
+	shallow = true
+	registered = true
+[submodule "Isinglandr"]
+	path = Isinglandr
+	url = https://github.com/sciurus365/isinglandr
+	shallow = true
+	registered = true
 [submodule "simlandr"]
 	path = simlandr
 	url = https://github.com/sciurus365/simlandr
