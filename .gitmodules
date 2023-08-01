@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fitlandr"]
-	path = fitlandr
-	url = https://github.com/sciurus365/fitlandr
 [submodule "Isinglandr"]
 	path = Isinglandr
 	url = https://github.com/sciurus365/isinglandr
-[submodule "simlandr"]
-	path = simlandr
-	url = https://github.com/sciurus365/simlandr
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/sciurus365/sparsevfc
+[submodule "fitlandr"]
+	path = fitlandr
+	url = https://github.com/sciurus365/fitlandr
+[submodule "simlandr"]
+	path = simlandr
+	url = https://github.com/sciurus365/simlandr
