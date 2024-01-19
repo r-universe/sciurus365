@@ -5,6 +5,9 @@
 [submodule "Isinglandr"]
 	path = Isinglandr
 	url = https://github.com/sciurus365/isinglandr
+[submodule "NVAR"]
+	path = NVAR
+	url = https://github.com/sciurus365/nvar
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/sciurus365/sparsevfc
