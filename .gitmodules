@@ -8,6 +8,10 @@
 [submodule "NVAR"]
 	path = NVAR
 	url = https://github.com/Sciurus365/NVAR
+[submodule "RAMP"]
+	path = RAMP
+	url = https://github.com/Sciurus365/RAMP
+	registered = false
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/Sciurus365/SparseVFC
